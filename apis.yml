@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://quizapi.io/
 common:
+  - type: DomainSecurity
+    url: security/quizapi-io-domain-security.yml
   - type: Website
     url: https://quizapi.io/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://quizapi.io/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
